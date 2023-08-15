@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+[![Gourav2609's GitHub | Stats](https://stats.quine.sh/Gourav2609/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Gourav2609)
+[![Gourav2609's GitHub | Languages Over Time](https://stats.quine.sh/Gourav2609/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Gourav2609)
+[![Gourav2609's GitHub | Topics Over Time](https://stats.quine.sh/Gourav2609/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Gourav2609)
 <!--
 **Gourav2609/Gourav2609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
