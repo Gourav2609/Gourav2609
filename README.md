@@ -1,5 +1,10 @@
 ### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+%2C+%F0%9F%98%8A%F0%9F%98%8A;This+is+GOURAV)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=4000&pause=985&center=true&width=435&lines=Hello+there+!!+%F0%9F%98%8A%F0%9F%98%8A;Welcome+to+my+profile+)](https://git.io/typing-svg)
+
+
+
+
+
 [![Gourav2609's GitHub | Stats](https://stats.quine.sh/Gourav2609/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Gourav2609)
 [![Gourav2609's GitHub | Languages Over Time](https://stats.quine.sh/Gourav2609/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Gourav2609)
 [![Gourav2609's GitHub | Topics Over Time](https://stats.quine.sh/Gourav2609/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Gourav2609)
