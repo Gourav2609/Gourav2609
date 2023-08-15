@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 [![Gourav2609's GitHub | Stats](https://stats.quine.sh/Gourav2609/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Gourav2609)
 [![Gourav2609's GitHub | Languages Over Time](https://stats.quine.sh/Gourav2609/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Gourav2609)
 [![Gourav2609's GitHub | Topics Over Time](https://stats.quine.sh/Gourav2609/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Gourav2609)
