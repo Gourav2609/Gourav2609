@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&duration=4000&pause=985&vCenter=true&width=800&height=80&lines=Hello+there+!!+%F0%9F%98%8A%F0%9F%98%8A;Welcome+to+my+profile+!)](https://git.io/typing-svg)
 
-\t![](https://komarev.com/ghpvc/?username=Gourav2609)
+![](https://komarev.com/ghpvc/?username=Gourav2609)
 
 
 
