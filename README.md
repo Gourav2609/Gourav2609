@@ -17,11 +17,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/gourav-a6266014b/" target="blank"><img align="center" src="./icons/linkedin.png" alt="gourav ." height="30" width="40" /></a>
-<a href="https://instagram.com/__delusive_world_/" target="blank"><img align="center" src="./icons/instagram.png" alt="__delusive_world_/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/herculeswarrior1" target="blank"><img align="center" src="./icons/hackerrank.png" alt="herculeswarrior1" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/gandalf_05" target="blank"><img align="center" src="./icons/codeforces.png" alt="gandalf_05" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/user4582bn" target="blank"><img align="center" src="./icons/leetcode.png" alt="user4582bn" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gourav-a6266014b/" target="blank"><img align="center" src="./icons/linkedin.png" alt="gourav ." height="40" width="40" /></a>
+<a href="https://instagram.com/__delusive_world_/" target="blank"><img align="center" src="./icons/instagram.png" alt="__delusive_world_/" height="40" width="40" /></a>
+<a href="https://www.hackerrank.com/herculeswarrior1" target="blank"><img align="center" src="./icons/hackerrank.png" alt="herculeswarrior1" height="40" width="40" /></a>
+<a href="https://codeforces.com/profile/gandalf_05" target="blank"><img align="center" src="./icons/codeforces.png" alt="gandalf_05" height="40" width="40" /></a>
+<a href="https://www.leetcode.com/user4582bn" target="blank"><img align="center" src="./icons/leetcode.png" alt="user4582bn" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
