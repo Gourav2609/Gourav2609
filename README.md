@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **herculeswarrior.in@gmail.com**
 
-- ⚡ Fun fact **I think I am handsome**
+- ⚡ Fun fact **I think I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
