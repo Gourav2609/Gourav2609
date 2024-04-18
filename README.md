@@ -9,11 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gourav2609&label=Visitors&color=000000&style=flat" alt="gourav2609" /> </p>
 
-- 🌱 I’m currently learning **React Native , Firebase , React**
-
 - 📫 How to reach me **herculeswarrior.in@gmail.com**
-
-- ⚡ Fun fact **I think I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
